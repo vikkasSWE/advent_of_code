@@ -33,4 +33,8 @@ fn main() {
     println!("{:?}", epsilon); // 3293
 
     println!("Answer: {}", 802 * 3293);
+
+    println!("{:?}", gamma_zero);
+
+    println!("{:?}", gamma_one);
 }
